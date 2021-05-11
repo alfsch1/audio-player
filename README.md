@@ -6,3 +6,6 @@ using STM32F411 "Black_Pill" board, SDcard holder, USB port, I2S audio DAC (AD18
 
 
 ![STM32F411CEU6_WeAct_Black_Pill_V2 0-s](https://user-images.githubusercontent.com/33846225/117869646-5626f200-b29b-11eb-9888-917758717c31.jpg)
+
+
+any interest? (more coming soon )
